@@ -1,5 +1,5 @@
-import React from "react";
-import { StyleSheet, View, Text } from "react-native";
+import React from 'react';
+import { StyleSheet, View, Text } from 'react-native';
 
 class BodyText extends React.Component {
   render() {
@@ -13,8 +13,8 @@ class BodyText extends React.Component {
 
 const styles = StyleSheet.create({
   text: {
-    color: "#DDD",
-    backgroundColor: "#eee",
+    color: '#DDD',
+    backgroundColor: '#eee',
   },
 });
 
